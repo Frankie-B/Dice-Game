@@ -1,0 +1,23 @@
+{
+  "name": "dice-game",
+  "version": "1.0.0",
+  "description": "Dice game web development boot camp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frankie-B/Dice-Game.git"
+  },
+  "keywords": [
+    "Dice",
+    "Game"
+  ],
+  "author": "Frankie Bukenya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frankie-B/Dice-Game/issues"
+  },
+  "homepage": "https://github.com/Frankie-B/Dice-Game#readme"
+}
